@@ -1,0 +1,8 @@
+alg_name: "IKE"
+model_name: "/path/to/llama2-7b"
+sentence_model_name: "/path/to/all-MiniLM-L6-v2"
+device: 0
+results_dir: "./results_biased_upper_repha"
+
+k: 16
+model_parallel: true
